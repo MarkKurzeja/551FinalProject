@@ -7,6 +7,7 @@
 - Finish the project
 - Conquer the world
 
+## Project Ideas
 - Iowa Liquior Sales
 https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy
 Downsides: No prediction except for temporally & relatively large
