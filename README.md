@@ -12,6 +12,10 @@
 https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy
 Downsides: No prediction except for temporally & relatively large
 Upsides: interesting AF
+- Swedish School Fires 
+https://www.kaggle.com/mikaelhuss/swedish-school-fires/data
+Predict incidence of arson based on Swedish municipality characteristics (unemployment, etc.).
+- 
 - Interview Attendance Problem
 https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem
 Downsides: Only categorical variable prediction - maybe a plus? Not too many variables
